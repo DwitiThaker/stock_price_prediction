@@ -1,6 +1,6 @@
 # Stock Price Prediction using Linear Regression and LSTM
 
-This project by [Your Name] demonstrates a comparative analysis of two modeling techniques—**Linear Regression** and **Long Short-Term Memory (LSTM)**—for forecasting stock prices based on historical trends and technical indicators.
+This project by [Dwiti Thaker] demonstrates a comparative analysis of two modeling techniques—**Linear Regression** and **Long Short-Term Memory (LSTM)**—for forecasting stock prices based on historical trends and technical indicators.
 
 ## Project Overview
 
@@ -29,7 +29,7 @@ This underscores the importance of evaluating multiple approaches and **letting 
 
 ## How to Run
 
-1. Clone the repository: https://github.com/your-username/stock-price-prediction.git
+1. Clone the repository: https://github.com/DwitiThaker/stock_price_prediction.
 2. Open the `.ipynb` file using Jupyter Notebook or Google Colab
 3. Place or link the stock data (if not included) and run the notebook step-by-step
 
